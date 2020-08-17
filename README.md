@@ -1,6 +1,5 @@
-### Hi there 👋
-### 🌱 I’m currently learning SQL!
-### 📫 How to reach me: jhhunter0107@gmail.com
+### Hi there!
+### I’m currently learning SQL!
 
 <!--
 **jhhunter/jhhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
