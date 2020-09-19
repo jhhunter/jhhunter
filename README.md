@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=jhhunter" alt="jhhunter" />
+<img src="https://komarev.com/ghpvc/?username=jhhunter" alt="jhhunter" /><br>
 ### Hi there, my name is John Hunter!
 ### I’m currently learning SQL!
 
